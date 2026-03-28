@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gigabyte_decentrathon/static/css/main.8a61175a.css",
+    "main.js": "/gigabyte_decentrathon/static/js/main.932e120b.js",
+    "static/js/488.0ad15f4c.chunk.js": "/gigabyte_decentrathon/static/js/488.0ad15f4c.chunk.js",
+    "static/media/arsen.jpg": "/gigabyte_decentrathon/static/media/arsen.0f96dc91f6db22b5faad.jpg",
+    "index.html": "/gigabyte_decentrathon/index.html",
+    "main.8a61175a.css.map": "/gigabyte_decentrathon/static/css/main.8a61175a.css.map",
+    "main.932e120b.js.map": "/gigabyte_decentrathon/static/js/main.932e120b.js.map",
+    "488.0ad15f4c.chunk.js.map": "/gigabyte_decentrathon/static/js/488.0ad15f4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a61175a.css",
+    "static/js/main.932e120b.js"
+  ]
+}

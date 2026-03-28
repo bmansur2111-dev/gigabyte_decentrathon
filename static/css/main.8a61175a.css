@@ -1,0 +1,2 @@
+@tailwind base;@tailwind components;@tailwind utilities;.animate-fadeIn{animation:fadeIn .5s ease-in-out}@keyframes fadeIn{0%{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+/*# sourceMappingURL=main.8a61175a.css.map*/
